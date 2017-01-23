@@ -1,2 +1,2 @@
 # thesis
-Thesis by Foster Seybert
+BMB thesis by Foster Seybert
